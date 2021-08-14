@@ -1,3 +1,8 @@
+body{
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
 .banner-heading {
   line-height: 2.6rem;
 }
@@ -6,4 +11,10 @@
     padding-bottom: 2rem;
     color: rgb(14, 0, 66);
     
+}
+
+.come-see{
+  margin: 0 auto;
+  text-align: center;
+  max-width: 900px;
 }
